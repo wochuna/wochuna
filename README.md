@@ -1,6 +1,12 @@
 ## Hello there,👋I'm Wochuna
 
 
+🔭 I’m currently working on a lot of things 😄😄
+🌱 I’m currently learning about APIs
+👯 I’m looking to collaborate on projects that enhance my skills 😄
+💬 Ask me about anything 😄
+📫 How to reach me:
+😄 Pronouns:She,Her
 
 <!--
 **wochuna/wochuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
