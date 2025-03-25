@@ -22,6 +22,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=wochuna&icon=6&color=9)](https://visitcount.itsvg.in)
 
-### Github Trophies
+### 🏆 Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wochuna" alt="wochuna" /></a> </p>
 
