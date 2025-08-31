@@ -1,5 +1,7 @@
 ## Hello there,👋I'm Wochuna
 
+#I am a junior software developer majoring in Backend Development.
+
 
 
 
