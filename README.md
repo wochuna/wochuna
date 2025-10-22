@@ -28,6 +28,6 @@ I enjoy working with Python language and I have experience in frameworks such as
 ### 🏆 Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wochuna" alt="wochuna" /></a> </p>
 
-https://camo.githubusercontent.com/4454a09fcfbed5ff3d9d179c64d1263fa5690438f8fa2dc15609b33d4635c6c2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d46724d61686f6e26636f6c6f723d626c75652661626272657669617465643d74727565
+![](https://camo.githubusercontent.com/4454a09fcfbed5ff3d9d179c64d1263fa5690438f8fa2dc15609b33d4635c6c2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d46724d61686f6e26636f6c6f723d626c75652661626272657669617465643d74727565)
 
 
