@@ -1,7 +1,7 @@
-## Hello there,👋I'm Wochuna
+## Hello there👋,I'm Wochuna
 
-I am a junior software developer majoring in Backend Development.I aim to building scalable backend systems and creating robust APIs. 
-I enjoy working with Python language and I have experience in frameworks such as Flask and Django.
+I am a software developer majoring in Backend Development.I aim to building scalable backend systems and creating robust APIs. 
+I enjoy working with Python and Java languages and I have experience in frameworks such as Flask and Django.I also work with springboot and microservice architecture.
 
 
 ## 🌐 Socials:
